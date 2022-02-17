@@ -8,7 +8,7 @@
 
 <div align=center>
   
-  ### junior developer in...<br /><br />
+  ###I'm junior web developer in...<br /><br />
   
 ▾ **LANGUAGE** <br />
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
