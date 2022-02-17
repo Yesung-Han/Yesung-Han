@@ -13,8 +13,6 @@
 ▾ **LANGUAGE** <br />
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
 ![Python](https://img.shields.io/badge/Python-black?logo=Python)
-![C%23](https://img.shields.io/badge/C%23-black)
-![C++](https://img.shields.io/badge/C%2B%2B-black)
 
 ▾ **BACK-END** <br />
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
@@ -41,9 +39,9 @@
 ![Docker](https://img.shields.io/badge/Docker-black?logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon)
   
-▾ **I'm also interested in...** <br />
+▾ **And also indie game developer🎮** <br />
 ![unity](https://img.shields.io/badge/unity-black?logo=unity)
-![Cocos%20Creator%20Engine](https://img.shields.io/badge/Cocos%20Creator%20Engine-black?logo=Cocos%20Creator%20Engine)
+![C%23](https://img.shields.io/badge/C%23-black)
 <br />
 <a href="https://play.google.com/store/apps/details?id=com.RocketNo9.TetTetBlock" alt="TetTetBlock">
   <img src="https://play-lh.googleusercontent.com/VJvsB0TOlCaWsJlXcbRqJWGlF_NYjow8Ui6JVrYvN9R38TxHi3OrSo8_QStUOZbxLRhk=w480-h960-rw" width="60" height="60" />
