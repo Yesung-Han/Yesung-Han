@@ -68,5 +68,5 @@
 <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYesung-Han&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-1877f2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yesung-han-87045419a/)](https://www.linkedin.com/in/yesung-han-87045419a/)
 </div>
