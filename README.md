@@ -45,7 +45,7 @@
 ![unity](https://img.shields.io/badge/unity-black?logo=unity)
 ![Cocos%20Creator%20Engine](https://img.shields.io/badge/Cocos%20Creator%20Engine-black?logo=Cocos%20Creator%20Engine)
 <br />
-<a src="https://play.google.com/store/apps/details?id=com.RocketNo9.TetTetBlock" alt="TetTetBlock">
+<a href="https://play.google.com/store/apps/details?id=com.RocketNo9.TetTetBlock" alt="TetTetBlock">
   <img src="https://play-lh.googleusercontent.com/VJvsB0TOlCaWsJlXcbRqJWGlF_NYjow8Ui6JVrYvN9R38TxHi3OrSo8_QStUOZbxLRhk=w480-h960-rw" width="60" height="60" />
 </a>
 <br />
