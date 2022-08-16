@@ -21,6 +21,8 @@
 ![Docker](https://img.shields.io/badge/Docker-black?logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon)
 ![GCP](https://img.shields.io/badge/GCP-black?logo=Google)
+![elastic cloud](https://img.shields.io/badge/elasticsearch-black?logo=elasticsearch)
+
   
 ▾ **My Game🎮** <br />
 ![unity](https://img.shields.io/badge/unity-black?logo=unity)
