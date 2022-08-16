@@ -12,34 +12,17 @@
   
 ▾ **LANGUAGE** <br />
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
-![Python](https://img.shields.io/badge/Python-black?logo=Python)
 
 ▾ **BACK-END** <br />
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=Sequelize)
 ![django](https://img.shields.io/badge/django-black?logo=django)
-
-▾ **DB** <br />
-![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![mongoDB](https://img.shields.io/badge/mongoDB-black?logo=mongoDB)
-![redis](https://img.shields.io/badge/redis-black?logo=redis)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-black?logo=ElasticSearch)
-  
-▾ **FRONT-END** <br />
-![Vue.JS](https://img.shields.io/badge/Vue.JS-black?logo=Vue.JS)
-![Vuetify](https://img.shields.io/badge/Vuetify-black?logo=Vuetify)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Next.JS](https://img.shields.io/badge/Next.JS-black?logo=Next.JS)
-![AntDesign](https://img.shields.io/badge/AntDesign-black?logo=AntDesign)
   
 ▾ **etc.** <br />
-![Kibana](https://img.shields.io/badge/Kibana-black?logo=Kibana)
-![fluentd](https://img.shields.io/badge/fluentd-black?logo=fluentd)
 ![Docker](https://img.shields.io/badge/Docker-black?logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon)
+![GCP](https://img.shields.io/badge/GCP-black?logo=Google)
   
-▾ **And also indie game developer🎮** <br />
+▾ **My Game🎮** <br />
 ![unity](https://img.shields.io/badge/unity-black?logo=unity)
 ![C%23](https://img.shields.io/badge/C%23-black)
 <br />
