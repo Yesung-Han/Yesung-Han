@@ -37,11 +37,6 @@
 </div>
   
 <div align=center>
-
-<a href="https://github.com/Yesung-Han">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yesung-Han&show_icons=true&theme=radical" alt="Yesung-Han's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesung-Han&layout=compact&show_icons=true&theme=radical" alt="Yesung-Han's github top languages" />
-</a>
   
 </div>
 
