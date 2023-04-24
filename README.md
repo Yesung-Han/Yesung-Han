@@ -8,8 +8,6 @@
 
 <div align=center>
   
-  ### I'm junior web developer in...<br /><br />
-  
 ▾ **LANGUAGE** <br />
 ![Typescript](https://img.shields.io/badge/Typescript-black?logo=Typescript)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
